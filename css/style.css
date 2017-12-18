@@ -1,0 +1,210 @@
+	#banner{
+	margin-top: 40px;
+	font-family: 'Londrina Shadow', cursive;
+	font-size: 68px;
+	text-align: center;
+	color: teal;
+
+	}
+
+body{
+
+    position: relative;
+    background-color: #ffffff;
+}
+
+
+#displayNum{
+	font-size: 220%;
+	background-color: white;
+	text-align: right;
+	width: 290px;
+	margin-left: 10%;
+	height: 50%;
+}
+
+#displayRow{
+    width: 400px;
+	height: 100%;
+    background-color: #ff9e80;
+
+}
+
+.btn{
+        height: 30%;
+		width: 18%;
+		margin-left: 5%;
+		padding-top: 5px;
+		padding-bottom: 5px;
+
+}
+
+/* ----------------------------------------------- */
+/* --------------------ROW 1---------------------- */
+/* ----------------------------------------------- */
+#row1{
+
+	background-color: #ff9e80;
+	border-top: grey;
+	width: 400px;
+	height: 100%;
+	padding-bottom: 2%;
+	padding-top: 1%;
+	margin-top: -20px;
+}
+
+
+#displayRow{
+    width: 400px;
+	height: 100%;
+    background-color: #ff9e80;
+
+}
+
+
+
+/* ----------------------------------------------- */
+/* --------------------ROW 2---------------------- */
+/* ----------------------------------------------- */
+
+
+#row2{
+
+	background-color: #ff9e80;
+	border-top: grey;
+	width: 400px;
+	height: 100%;
+	padding-bottom: 2%;
+	padding-top: 1%;
+}
+
+/* ----------------------------------------------- */
+/* --------------------ROW 3---------------------- */
+/* ----------------------------------------------- */
+
+#row3{
+
+	background-color: #ff9e80;
+	border-top: grey;
+	width: 400px;
+	height: 100%;
+	padding-bottom: 2%;
+	padding-top: 1%;
+}
+
+/* ----------------------------------------------- */
+/* --------------------ROW 4---------------------- */
+/* ----------------------------------------------- */
+
+#row4{
+
+	background-color: #ff9e80;
+	border-top: grey;
+	width: 400px;
+	height: 100%;
+	padding-bottom: 2%;
+	padding-top: 1%;
+}
+
+/* ----------------------------------------------- */
+/* --------------------ROW 5---------------------- */
+/* ----------------------------------------------- */
+
+#row5{
+
+	background-color: #ff9e80;
+	border-top: grey;
+	width: 400px;
+	height: 100%;
+	padding-bottom: 2%;
+	padding-top: 1%;
+}
+
+
+#btn0{
+        height: 35px;
+		width: 42%;
+		margin-left: 5%;
+		padding-top: 0px;
+		padding-bottom: 0px;
+
+}
+
+
+.btnLbl{
+
+font-size: 16px;
+padding-top: 0px;
+margin-top: 0%;
+}
+
+/* Media Queries */
+
+@media only screen and (min-width: 600px) {
+
+ /* ----------------------------------------------- */
+/* --------------------ROW 1---------------------- */
+/* ----------------------------------------------- */
+
+
+#row1{
+
+	background-color: #ff9e80;
+	border-top: grey;
+	width: 400px;
+	height: 100%;
+	padding-bottom: 2%;
+	padding-top: 1%;
+	margin-bottom: -20px;
+}
+
+ /* ----------------------------------------------- */
+/* --------------------ROW 2---------------------- */
+/* ----------------------------------------------- */
+
+
+#row2{
+
+	background-color: #ff9e80;
+	border-top: grey;
+	width: 400px;
+	height: 100%;
+	padding-bottom: 2%;
+	padding-top: 1%;
+	margin-bottom: -20px;
+}
+
+/* ----------------------------------------------- */
+/* --------------------ROW 3---------------------- */
+/* ----------------------------------------------- */
+
+#row3{
+
+	background-color: #ff9e80;
+	border-top: grey;
+	width: 400px;
+	height: 100%;
+	padding-bottom: 2%;
+	margin-bottom: -20px;
+}
+
+/* ----------------------------------------------- */
+/* --------------------ROW 4---------------------- */
+/* ----------------------------------------------- */
+
+#row4{
+
+	background-color: #ff9e80;
+	border-top: grey;
+	width: 400px;
+	height: 100%;
+	padding-bottom: 2%;
+	padding-top: 1%;
+	margin-bottom: -20px;
+
+	}
+  
+}
+
+
+
